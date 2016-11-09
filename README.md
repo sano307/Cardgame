@@ -1,2 +1,2 @@
-# c_Cardgame
+# Cardgame
 同じ文様を探すゲームです。
